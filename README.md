@@ -6,7 +6,7 @@ This repository contains the complete design and implementation of a relational 
 ## 📊 Database Design
 To ensure optimal structure and data integrity, the system was fully normalized to the Third Normal Form (3NF). Below is the Entity-Relationship (ER) diagram mapping out the entities, attributes, and relationships:
 
-![Entity-Relationship Diagram](./graphics/MODELOER_W.png)
+![Entity-Relationship Diagram](/graphics/MODELOER_W.png)
 
 ## 🛠️ Technologies & Concepts
 * **Language:** SQL (MySQL)
