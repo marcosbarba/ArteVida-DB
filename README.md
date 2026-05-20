@@ -18,7 +18,7 @@ To ensure optimal structure and data integrity, the system was fully normalized 
 
 ## 📂 Repository Structure
 * `docs/`: Contains detailed project documentation, including design justifications, the E-R diagram, and relational schemas.
-* `graphics`: Contains visual assets, including the Entity-Relationship (ER) diagram.
+* `graphics/`: Contains visual assets, including the Entity-Relationship (ER) diagram.
 * `sql/`: Contains the unified script to create the database, populate tables with mock data, and execute the analytical queries.
 
 ## 🚀 How to Run
